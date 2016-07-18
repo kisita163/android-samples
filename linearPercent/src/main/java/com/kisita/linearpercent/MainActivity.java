@@ -1,4 +1,4 @@
-package com.kisita.app1;
+package com.kisita.linearpercent;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

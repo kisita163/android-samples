@@ -1,6 +1,5 @@
-package com.kisita.conteneurs1;
+package com.kisita.linearlayout;
 
-import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;

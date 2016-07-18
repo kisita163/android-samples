@@ -1,4 +1,4 @@
-package com.kisita.app2;
+package com.kisita.relativelayout;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

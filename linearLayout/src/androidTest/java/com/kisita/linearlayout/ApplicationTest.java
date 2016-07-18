@@ -1,4 +1,4 @@
-package com.kisita.conteneurs1;
+package com.kisita.linearlayout;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

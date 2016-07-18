@@ -1,4 +1,4 @@
-package com.kisita.app2;
+package com.kisita.relativelayout;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

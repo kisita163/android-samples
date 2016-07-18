@@ -1,4 +1,4 @@
-package com.kisita.app1;
+package com.kisita.linearpercent;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
